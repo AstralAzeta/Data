@@ -68,9 +68,9 @@ AstralAzeta license
             or terms other than this agreement, regardless of how much new
             code has been added to the Modified Pack.
 
-  1.4. Users may use the Pack in ways other than those described in this 
-       license only with explicit permission from AstralAzeta on the official 
-       Discord server of the original Pack (https://discord.com/invite/hFS6faY9tW)
+  1.4. Users may use the Package in ways other than those described in this license
+       only with the explicit permission of AstralAzeta on the original Package's 
+       official communication channel (for example the Discord server).
 
 2. Denied Cases
 ---------------
